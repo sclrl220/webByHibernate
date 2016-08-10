@@ -21,7 +21,7 @@ import com.sobey.service.IEmployeeService;
 
 
 /**
- * 〈一句话功能简述〉 〈功能详细描述〉
+ * 用户Controler
  * 
  * @author [liruilang]
  * @version 2015年12月22日-下午6:32:50
