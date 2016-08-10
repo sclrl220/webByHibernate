@@ -296,6 +296,13 @@
 			<version>1.9.13</version>
 		</dependency>
 
+		<!-- httpClient 请求RESTful客服端调用 -->
+		<dependency>
+			<groupId> org.apache.httpcomponents</groupId>
+			<artifactId> httpclient</artifactId>
+			<version> 4.5.2</version>
+		</dependency>
+
 	</dependencies>
 	
 	<build>
